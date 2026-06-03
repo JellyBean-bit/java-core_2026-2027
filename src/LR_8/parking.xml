@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parking>
+                
+    
+    
+    <automobile>
+                                
+        
+        
+        <brand>Ford</brand>
+                                
+        
+        
+        <model>Focus</model>
+                                
+        
+        
+        <year>2003</year>
+                                
+        
+        
+        <license>F245AA</license>
+                            
+    
+    
+    </automobile>
+            
+    
+
+
+    <automobile>
+        <brand>Lada</brand>
+        <model>Largus</model>
+        <year>2015</year>
+        <license>F454F</license>
+    </automobile>
+</parking>
